@@ -1,16 +1,22 @@
-### <div align="center">
+### About Me
+<div align="center">
   <img src="https://github.com/fahimfahad92/fahimfahad92/blob/main/Fahim%20Fahad.png" alt="banner that says Fahim Fahad - Backend Developer" 
        width="500" height="300">
 </div>  
-  
+<br/>    
+<div align="center">
+✔️ Expertise in Java, Spring Boot and AWS    
 
-- 🌱 I’m currently exploring Java 17 and Spring boot 3  
-  
+✔️ Experienced in microservice architecture and scalable system design, different RDBMS and NoSQL    
+   
+</div>  
+
 
 <br/>  
 
 
 ## My Skill Set  
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -42,6 +48,7 @@
 
 </td></tr></table>  
 
+</div>  
 <br/>  
 
 
@@ -59,6 +66,9 @@
 <a href="https://medium.com/https://fahimfahad92.medium.com/" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+ <a href="https://www.hackerrank.com/fahimfahad92" target="_blank">
+<img src=https://img.shields.io/badge/hackerrank-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
 </div>  
   
 
@@ -70,6 +80,11 @@
 
 <br/>  
 
+## LeetCode Stats
+[![Fahim's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=fahimfahad&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+
+<br/>  
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
