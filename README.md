@@ -1,4 +1,7 @@
-### <div align="center">Hello, I'm Fahim Fahad, a full-time backend developer. I have 6+ years of working experience. </div>  
+### <div align="center">
+  <img src="https://github.com/fahimfahad92/fahimfahad92/blob/main/Fahim%20Fahad.png" alt="banner that says Fahim Fahad - Backend Developer" 
+       width="500" height="300">
+</div>  
   
 
 - 🌱 I’m currently exploring Java 17 and Spring boot 3  
