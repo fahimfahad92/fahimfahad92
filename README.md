@@ -90,11 +90,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Use Spring Boot 3 observability to monitor method performance](https://fahimfahad92.medium.com/use-spring-boot-3-observability-to-monitor-method-performance-dd3d3359f2ab?source=rss-fd28ce5a235e------2)
 - [Database Security Considerations For Spring Boot Applications](https://fahimfahad92.medium.com/database-security-considerations-for-spring-boot-applications-1971a5a4489d?source=rss-fd28ce5a235e------2)
 - [Improve Logging Using MDC](https://fahimfahad92.medium.com/improve-logging-using-mdc-987c78911f19?source=rss-fd28ce5a235e------2)
 - [Validate and Sanitize Incoming Data](https://fahimfahad92.medium.com/validate-and-sanitize-incoming-data-99ca756596a6?source=rss-fd28ce5a235e------2)
 - [AWS Systems Manager](https://enlear.academy/aws-systems-manager-b4f63986857a?source=rss-fd28ce5a235e------2)
-- [Deploy your Spring Boot Application Using CodeDeploy and CodePipeline](https://enlear.academy/deploy-your-spring-boot-application-using-codedeploy-and-codepipeline-4d853b1e486e?source=rss-fd28ce5a235e------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
