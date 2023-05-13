@@ -90,11 +90,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [CloudFormation: EventBridge integration with SQS](https://fahimfahad92.medium.com/cloudformation-eventbridge-integration-with-sqs-d1070781e5d4?source=rss-fd28ce5a235e------2)
 - [CloudFormation: Deploy EC2 instance](https://fahimfahad92.medium.com/cloudformation-deploy-ec2-instance-60c0bdcd35f5?source=rss-fd28ce5a235e------2)
 - [Use Spring Boot 3 observability to monitor method performance](https://fahimfahad92.medium.com/use-spring-boot-3-observability-to-monitor-method-performance-dd3d3359f2ab?source=rss-fd28ce5a235e------2)
 - [Database Security Considerations For Spring Boot Applications](https://fahimfahad92.medium.com/database-security-considerations-for-spring-boot-applications-1971a5a4489d?source=rss-fd28ce5a235e------2)
 - [Improve Logging Using MDC](https://fahimfahad92.medium.com/improve-logging-using-mdc-987c78911f19?source=rss-fd28ce5a235e------2)
-- [Validate and Sanitize Incoming Data](https://fahimfahad92.medium.com/validate-and-sanitize-incoming-data-99ca756596a6?source=rss-fd28ce5a235e------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
