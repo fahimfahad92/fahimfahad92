@@ -90,11 +90,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Terraform: Manage AWS resources](https://fahimfahad92.medium.com/terraform-manage-aws-resources-968dedab5a7b?source=rss-fd28ce5a235e------2)
 - [API Gateway: API keys](https://fahimfahad92.medium.com/api-gateway-api-keys-ae8facf025d4?source=rss-fd28ce5a235e------2)
 - [API Gateway Custom Authorizer](https://fahimfahad92.medium.com/api-gateway-custom-authorizer-91ea9565e3e9?source=rss-fd28ce5a235e------2)
 - [CloudFormation: EventBridge integration with Lambda](https://fahimfahad92.medium.com/cloudformation-eventbridge-integration-with-lambda-528ab260b6ba?source=rss-fd28ce5a235e------2)
 - [CloudFormation: EventBridge integration with SQS](https://fahimfahad92.medium.com/cloudformation-eventbridge-integration-with-sqs-d1070781e5d4?source=rss-fd28ce5a235e------2)
-- [CloudFormation: Deploy EC2 instance](https://fahimfahad92.medium.com/cloudformation-deploy-ec2-instance-60c0bdcd35f5?source=rss-fd28ce5a235e------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
