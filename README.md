@@ -90,11 +90,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [GraphQL with Spring Boot](https://medium.com/spring-boot/graphql-with-spring-boot-05fcc1f8080b?source=rss-fd28ce5a235e------2)
 - [Product lifecycle: From 0 to Release](https://fahimfahad92.medium.com/product-lifecycle-from-0-to-release-0b4555df69c6?source=rss-fd28ce5a235e------2)
 - [Terraform: Manage AWS resources](https://awstip.com/terraform-manage-aws-resources-968dedab5a7b?source=rss-fd28ce5a235e------2)
 - [API Gateway: API keys](https://awstip.com/api-gateway-api-keys-ae8facf025d4?source=rss-fd28ce5a235e------2)
 - [API Gateway Custom Authorizer](https://awstip.com/api-gateway-custom-authorizer-91ea9565e3e9?source=rss-fd28ce5a235e------2)
-- [CloudFormation: EventBridge integration with Lambda](https://aws.plainenglish.io/cloudformation-eventbridge-integration-with-lambda-528ab260b6ba?source=rss-fd28ce5a235e------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
