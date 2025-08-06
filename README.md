@@ -90,11 +90,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Improve Spring Boot startup time using Class Data Sharing &lpar;CDS&rpar;](https://fahimfahad92.medium.com/improve-spring-boot-startup-time-using-class-data-sharing-cds-ce3ccb94a8c2?source=rss-fd28ce5a235e------2)
 - [Deploying a Spring Boot Application to Amazon Elastic Container Service &lpar;Amazon ECS&rpar;](https://fahimfahad92.medium.com/deploying-a-spring-boot-application-to-amazon-elastic-container-service-amazon-ecs-86ec409d2ace?source=rss-fd28ce5a235e------2)
 - [Optimizing Spring Boot docker image using Liberica runtime container](https://fahimfahad92.medium.com/optimizing-spring-boot-docker-image-using-liberica-runtime-container-ad185bbe2206?source=rss-fd28ce5a235e------2)
 - [GraphQL API Security&lpar;Spring Boot 3&rpar;](https://medium.com/spring-boot/graphql-api-security-spring-boot-3-3d5f782746e1?source=rss-fd28ce5a235e------2)
 - [GraphQL with Spring Boot](https://medium.com/spring-boot/graphql-with-spring-boot-05fcc1f8080b?source=rss-fd28ce5a235e------2)
-- [Product lifecycle: From 0 to Release](https://fahimfahad92.medium.com/product-lifecycle-from-0-to-release-0b4555df69c6?source=rss-fd28ce5a235e------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
