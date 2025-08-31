@@ -90,11 +90,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Deploying Spring Boot application to ECS using GitHub actions](https://fahimfahad92.medium.com/deploying-spring-boot-application-to-ecs-using-github-actions-76ab8b703567?source=rss-fd28ce5a235e------2)
 - [Speed Up Docker Builds in GitHub Actions with Caching](https://fahimfahad92.medium.com/speed-up-docker-builds-in-github-actions-with-caching-f178cf12d5ba?source=rss-fd28ce5a235e------2)
 - [Secure GitHub CI/CD: Use AWS IAM Roles with GitHub OIDC](https://fahimfahad92.medium.com/secure-github-ci-cd-use-aws-iam-roles-with-github-oidc-974090496850?source=rss-fd28ce5a235e------2)
 - [Improve Spring Boot startup time using Class Data Sharing &lpar;CDS&rpar;](https://fahimfahad92.medium.com/improve-spring-boot-startup-time-using-class-data-sharing-cds-ce3ccb94a8c2?source=rss-fd28ce5a235e------2)
 - [Deploying a Spring Boot Application to Amazon Elastic Container Service &lpar;Amazon ECS&rpar;](https://fahimfahad92.medium.com/deploying-a-spring-boot-application-to-amazon-elastic-container-service-amazon-ecs-86ec409d2ace?source=rss-fd28ce5a235e------2)
-- [Optimizing Spring Boot docker image using Liberica runtime container](https://fahimfahad92.medium.com/optimizing-spring-boot-docker-image-using-liberica-runtime-container-ad185bbe2206?source=rss-fd28ce5a235e------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
