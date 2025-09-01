@@ -6,24 +6,20 @@
 <br/>    
 <div align="center">
 
-✔️ 9 years of professional experience in backend development, 2 years of experience in Frontend development
+✔️ **9+ years** of professional experience in **Backend development** and **2 years** in **Frontend development**
 
-✔️ Expertise in Java, Spring Boot and AWS
+✔️ Expertise in **Java, Spring Boot, AWS**
 
-✔️ Experienced in RDBMS and NoSQL (Oracle, PostgreSQL, MongoDB, Elasticsearch)
+✔️ Experienced in **RDBMS and NoSQL** (Oracle, PostgreSQL, MongoDB, Elasticsearch)
 
-✔️ Experienced in microservice architecture and scalable system design
+✔️ Skilled in **microservice architecture** and **scalable system design**
 
-✔️ Was part of two startup companies
+✔️ Contributed to **startup companies** and built **projects from scratch**
 
-✔️ Developed a lot of projects from scratch
+✔️ Experienced in **production issue debugging and resolution**
 
-✔️ Experienced in production issue debugging and fixing
-   
 </div>  
-
-
-<br/>  
+<br/> 
 
 ## 💼 My Skill Set
 
@@ -126,22 +122,20 @@
 <a href="https://fahimfahad92.medium.com/" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
- <a href="https://www.hackerrank.com/fahimfahad92" target="_blank">
-<img src=https://img.shields.io/badge/hackerrank-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<a href="https://www.hackerrank.com/fahimfahad92" target="_blank">
+  <img src="https://img.shields.io/badge/hackerrank-%23292929.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt=hackerrank style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>   
 
 <br/>  
 
 
 ## 📊 GitHub Stats
 
-<!-- Stats with private contributions -->
-![Fahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahimfahad92&show_icons=true&count_private=true&theme=radical)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimfahad92&layout=compact&count_private=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahimfahad92&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimfahad92&layout=compact&count_private=true&theme=radical" alt="Top Languages" width="45%" />
+</div>
 
 <!-- Activity Graph -->
 ![Fahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fahimfahad92&theme=react-dark&hide_border=true)
