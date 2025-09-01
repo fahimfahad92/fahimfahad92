@@ -5,11 +5,18 @@
 </div>  
 <br/>    
 <div align="center">
-✔️ Expertise in Java, Spring Boot and AWS    
 
-✔️ Experienced in microservice architecture and scalable system design, different RDBMS and NoSQL    
+✔️ 9 years of professional experience in backend development, 2 years of experience in Frontend development
 
-✔️ Experienced in RDBMS and NoSQL
+✔️ Expertise in Java, Spring Boot and AWS
+
+✔️ Experienced in RDBMS and NoSQL (Oracle, PostgreSQL, MongoDB, Elasticsearch)
+
+✔️ Experienced in microservice architecture and scalable system design
+
+✔️ Was part of two startup companies
+
+✔️ Developed a lot of projects from scratch
 
 ✔️ Experienced in production issue debugging and fixing
    
