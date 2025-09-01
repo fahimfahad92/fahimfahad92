@@ -140,9 +140,8 @@
 
 <div align="center">
 
-[//]: # (<img src="https://komarev.com/ghpvc/?username=fahimfahad92&&style=flat-square" align="center" />)
+![Profile views](https://komarev.com/ghpvc/?username=fahimfahad92&label=Profile%20views&color=0e75b6&style=flat)
 
-![Profile views](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/fahimfahad92/1f6d9d8aae0ce40d7e91141e52af082b/raw/views.json)
 
 </div>  
 
