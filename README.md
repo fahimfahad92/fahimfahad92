@@ -125,11 +125,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Database Security Considerations For Spring Boot Applications](https://fahimfahad92.medium.com/database-security-considerations-for-spring-boot-applications-1971a5a4489d?source=rss-fd28ce5a235e------2)
-- [Improve Logging Using MDC](https://fahimfahad92.medium.com/improve-logging-using-mdc-987c78911f19?source=rss-fd28ce5a235e------2)
-- [Validate and Sanitize Incoming Data](https://fahimfahad92.medium.com/validate-and-sanitize-incoming-data-99ca756596a6?source=rss-fd28ce5a235e------2)
-- [AWS Systems Manager](https://enlear.academy/aws-systems-manager-b4f63986857a?source=rss-fd28ce5a235e------2)
-- [Deploy your Spring Boot Application Using CodeDeploy and CodePipeline](https://enlear.academy/deploy-your-spring-boot-application-using-codedeploy-and-codepipeline-4d853b1e486e?source=rss-fd28ce5a235e------2)
+- [Deploying Spring Boot application to ECS using GitHub actions](https://fahimfahad92.medium.com/deploying-spring-boot-application-to-ecs-using-github-actions-76ab8b703567?source=rss-fd28ce5a235e------2)
+- [Speed Up Docker Builds in GitHub Actions with Caching](https://fahimfahad92.medium.com/speed-up-docker-builds-in-github-actions-with-caching-f178cf12d5ba?source=rss-fd28ce5a235e------2)
+- [Secure GitHub CI/CD: Use AWS IAM Roles with GitHub OIDC](https://fahimfahad92.medium.com/secure-github-ci-cd-use-aws-iam-roles-with-github-oidc-974090496850?source=rss-fd28ce5a235e------2)
+- [Improve Spring Boot startup time using Class Data Sharing &lpar;CDS&rpar;](https://fahimfahad92.medium.com/improve-spring-boot-startup-time-using-class-data-sharing-cds-ce3ccb94a8c2?source=rss-fd28ce5a235e------2)
+- [Deploying a Spring Boot Application to Amazon Elastic Container Service &lpar;Amazon ECS&rpar;](https://fahimfahad92.medium.com/deploying-a-spring-boot-application-to-amazon-elastic-container-service-amazon-ecs-86ec409d2ace?source=rss-fd28ce5a235e------2)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
