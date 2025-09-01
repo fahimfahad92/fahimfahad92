@@ -1,0 +1,47 @@
+name: Profile Views Counter
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour
+  workflow_dispatch:       # manual trigger
+
+jobs:
+  update-views:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch total unique views
+        id: traffic
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GIST_TOKEN }}
+          script: |
+            const repo = context.repo.repo;
+            const owner = context.repo.owner;
+
+            // Fetch traffic views (past 14 days)
+            const views = await github.rest.repos.getViewsTraffic({
+              owner: owner,
+              repo: repo,
+              per: "day"
+            });
+
+            // Sum unique visitors
+            let total = views.data.views.reduce((a, b) => a + b.uniques, 0);
+            return total;
+
+      - name: Update Gist badge
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GIST_TOKEN }}
+          script: |
+            const gistId = "1f6d9d8aae0ce40d7e91141e52af082b"; // Replace with your Gist ID
+            const totalViews = ${{
+              steps.traffic.outputs.result
+            }};
+            const content = JSON.stringify({ value: totalViews, label: "Profile Views" });
+            
+            await github.gists.update({
+              gist_id: gistId,
+              files: { "views.json": { content: content } },
+              description: "Updated GitHub profile view count"
+            });
