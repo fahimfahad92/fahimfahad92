@@ -1,22 +1,32 @@
 ### About Me
-<div align="center">
-  <img src="https://github.com/fahimfahad92/fahimfahad92/blob/main/Fahim%20Fahad.png" alt="banner that says Fahim Fahad - Backend Developer" 
-       width="500" height="300">
+
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px; flex-wrap: wrap;">
+
+<img src="/Fahim%20Fahad.png" alt="Fahim Fahad - Backend Developer" width="400" height="240" style="border-radius: 12px; object-fit: cover;"/>
+
+  <a href="https://www.toptal.com/resume/fahim-fahad#XM92Wo" target="_blank">
+    <img 
+      src="/assets/toptal-badge.png" 
+      alt="Toptal Top 3% Talent Badge" 
+      width="240" 
+      height="240"
+      style="border-radius: 12px; object-fit: contain;"
+    />
+  </a>
+
 </div>
 
-<div align="center">
+<div align="left">
 
-✔️ **9+ years** of professional experience in **Backend development** and **2 years** in **Frontend development**
+### 💬 Summary
 
-✔️ Expertise in **Java, Spring Boot, AWS**
+- 🧑‍💻 9+ years of professional experience in **Backend development** and 2 years in **Frontend**
+- ☕ Expertise in **Java, Spring Boot, AWS**
+- 🗄️ Experienced with **RDBMS & NoSQL** — Oracle, PostgreSQL, MongoDB, Elasticsearch
+- 🧩 Skilled in **microservices** and **scalable system design**
+- 🚀 Built and launched multiple **startup projects from scratch**
+- 🐞 Strong in **production debugging and performance tuning**
 
-✔️ Experienced in **RDBMS and NoSQL** (Oracle, PostgreSQL, MongoDB, Elasticsearch)
-
-✔️ Skilled in **microservice architecture** and **scalable system design**
-
-✔️ Contributed to **startup companies** and built **projects from scratch**
-
-✔️ Experienced in **production issue debugging and resolution**
 
 </div>  
 
@@ -109,9 +119,12 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahimfahad92&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimfahad92&layout=compact&count_private=true&theme=radical" alt="Top Languages" width="45%" />
+<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fahimfahad92&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="180" style="object-fit: contain;" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimfahad92&layout=compact&count_private=true&theme=radical" alt="Top Languages" height="180" style="object-fit: contain;" />
+
 </div>
 
 <!-- Activity Graph -->
@@ -121,7 +134,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/fahimfahad?theme=dark&font=Karma&ext=contest)
 
-## Recent Blog Posts  
+## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Deploying Spring Boot application to ECS using GitHub actions](https://fahimfahad92.medium.com/deploying-spring-boot-application-to-ecs-using-github-actions-76ab8b703567?source=rss-fd28ce5a235e------2)
 - [Speed Up Docker Builds in GitHub Actions with Caching](https://fahimfahad92.medium.com/speed-up-docker-builds-in-github-actions-with-caching-f178cf12d5ba?source=rss-fd28ce5a235e------2)
@@ -129,6 +142,14 @@
 - [Improve Spring Boot startup time using Class Data Sharing &lpar;CDS&rpar;](https://fahimfahad92.medium.com/improve-spring-boot-startup-time-using-class-data-sharing-cds-ce3ccb94a8c2?source=rss-fd28ce5a235e------2)
 - [Deploying a Spring Boot Application to Amazon Elastic Container Service &lpar;Amazon ECS&rpar;](https://fahimfahad92.medium.com/deploying-a-spring-boot-application-to-amazon-elastic-container-service-amazon-ecs-86ec409d2ace?source=rss-fd28ce5a235e------2)
 <!-- BLOG-POST-LIST:END -->  
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahimfahad92/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://medium.com/@fahimfahad92" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&style=for-the-badge" /></a>
+  <a href="mailto:fahimfahad92@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+</p>
 
 <div align="center">
 
