@@ -136,7 +136,7 @@
 
 ## 📝 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Statsig integration with Spring Boot](https://fahimfahad92.medium.com/statsig-integration-with-spring-boot-75cc91a68952?source=rss-fd28ce5a235e------2)
+- [Statsig integration with Spring Boot](https://medium.com/spring-boot/statsig-integration-with-spring-boot-75cc91a68952?source=rss-fd28ce5a235e------2)
 - [How to Integrate Spring Boot 3 with Aws Secret Manager and Parameter Store Using AWS SDK v2](https://awstip.com/how-to-integrate-spring-boot-3-with-aws-secret-manager-and-parameter-store-using-aws-sdk-v2-390a59cfdbae?source=rss-fd28ce5a235e------2)
 - [How to Integrate Spring Boot 3 with Amazon SQS Using AWS SDK v2](https://awstip.com/how-to-integrate-spring-boot-3-with-amazon-sqs-using-aws-sdk-v2-044e93e4fc11?source=rss-fd28ce5a235e------2)
 - [Access static content from S3 using CloudFront](https://awstip.com/access-static-content-from-s3-using-cloudfront-458d323041a1?source=rss-fd28ce5a235e------2)
