@@ -1,158 +1,154 @@
-### About Me
+# Sayed MD. Fahim Fahad
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px; flex-wrap: wrap;">
-
-<img src="/Fahim%20Fahad.png" alt="Fahim Fahad - Backend Developer" width="400" height="240" style="border-radius: 12px; object-fit: cover;"/>
-
-  <a href="https://www.toptal.com/resume/fahim-fahad#XM92Wo" target="_blank">
-    <img 
-      src="/assets/toptal-badge.png" 
-      alt="Toptal Top 3% Talent Badge" 
-      width="240" 
-      height="240"
-      style="border-radius: 12px; object-fit: contain;"
-    />
-  </a>
-
-</div>
-
-<div align="left">
-
-### 💬 Summary
-
-- 🧑‍💻 9+ years of professional experience in **Backend development** and 2 years in **Frontend**
-- ☕ Expertise in **Java, Spring Boot, AWS**
-- 🗄️ Experienced with **RDBMS & NoSQL** — Oracle, PostgreSQL, MongoDB, Elasticsearch
-- 🧩 Skilled in **microservices** and **scalable system design**
-- 🚀 Built and launched multiple **startup projects from scratch**
-- 🐞 Strong in **production debugging and performance tuning**
-
-
-</div>  
-
-## 💼 My Skill Set
+**Senior Java Engineer · AWS Architect · Toptal Top 3% Freelancer**
 
 <div align="center">
-<table>
-<tr>
-  <!-- Databases -->
-  <td valign="top" width="25%">
-    <h3 align="center">Databases</h3>
-    <div align="center">  
-      <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60" width="60" />
-      </a>  
-      <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="60" width="60" />
-      </a>  
-      <a href="https://www.oracle.com/database/" target="_blank" title="Oracle">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="60" width="60" />
-      </a>  
-      <a href="https://www.elastic.co/elasticsearch/" target="_blank" title="Elasticsearch">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elasticsearch" height="60" width="60" />
-      </a>  
-    </div>
-  </td>
 
-  <!-- Backend & Cloud -->
-  <td valign="top" width="25%">
-    <h3 align="center">Backend & Cloud</h3>
-    <div align="center">  
-      <a href="https://www.java.com/" target="_blank" title="Java">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="60" width="60" />
-      </a>  
-      <a href="https://spring.io/projects/spring-boot" target="_blank" title="Spring Boot">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring Boot" height="60" width="60" />
-      </a>  
-      <a href="https://graphql.org/" target="_blank" title="GraphQL">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="60" width="60" />
-      </a>  
-      <a href="https://aws.amazon.com/" target="_blank" title="AWS">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="60" width="60" />
-      </a>  
-    </div>
-  </td>
+<img src="/Fahim%20Fahad.png" alt="Fahim Fahad" width="320" height="240" style="border-radius: 12px; object-fit: cover;" />
 
-  <!-- DevOps & Tools -->
-  <td valign="top" width="25%">
-    <h3 align="center">DevOps & Tools</h3>
-    <div align="center">  
-      <a href="https://github.com/" target="_blank" title="GitHub"> 
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="GitHub" height="60" width="60" /> 
-      </a>
-      <a href="https://redis.io/" target="_blank" title="Redis">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="60" width="60" />
-      </a>
-      <a href="https://www.docker.com/" target="_blank" title="Docker">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" width="60" />
-      </a> 
-      <a href="https://www.terraform.io/" target="_blank" title="Terraform">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="60" width="60" />
-      </a>  
-      <a href="https://kubernetes.io/" target="_blank" title="Kubernetes"> 
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="60" width="60" />
-      </a>  
-    </div>
-  </td>
+<br/><br/>
 
-  <!-- Frontend -->
-  <td valign="top" width="25%">
-    <h3 align="center">Frontend</h3>
-    <div align="center">  
-      <a href="https://nextjs.org/" target="_blank" title="Next.js">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="60" width="60" />
-      </a>  
-      <a href="https://react.dev/" target="_blank" title="React">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" width="60" />
-      </a>
-      <a href="https://www.javascript.com/" target="_blank" title="JavaScript">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" width="60" />
-      </a>  
-      <a href="https://www.tailwindcss.com/" target="_blank" title="Tailwind CSS">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="60" width="60" />
-      </a>  
-    </div>
-  </td>
-</tr>
-</table>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fahimfahad92&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="180" style="object-fit: contain;" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimfahad92&layout=compact&count_private=true&theme=radical" alt="Top Languages" height="180" style="object-fit: contain;" />
+[![Toptal](https://img.shields.io/badge/Toptal-Top%203%25%20Talent-3863A0?style=flat-square&logo=toptal&logoColor=white)](https://www.toptal.com/resume/fahim-fahad)
+[![Java & Spring Boot](https://img.shields.io/badge/Java%20%26%20Spring%20Boot-9%2B%20Years-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-5%2B%20Years-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#)
 
 </div>
 
-<!-- Activity Graph -->
-![Fahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fahimfahad92&theme=react-dark&hide_border=true)
+---
 
-## 🏆 LeetCode Stats
+## About Me
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/fahimfahad?theme=dark&font=Karma&ext=contest)
+- ☕ **Java & Spring Boot** specialist, 9+ years building scalable backend systems
+- ☁️ **AWS Architect**, ECS, Lambda, SQS, S3, EventBridge, ElastiCache and more
+- 🧩 Expert in **microservices, event-driven architecture**, and distributed systems
+- 🚀 **Startup veteran**, built two products from scratch, delivered under pressure
+- 🐞 Strong in **production debugging**, root cause analysis, and performance tuning
+- 🌍 Global **Toptal freelancer**, worked with US clients across multiple time zones
+- 🎓 **MSc & BSc 1st Position**, Jahangirnagar University
+- 📄 Published in **IEEE** and **IJCIT**
 
-## 📝 Recent Blog Posts
+---
+
+## Impact
+
+| Metric | Result |
+|--------|--------|
+| Data migration at Propstream | **1.5 billion rows** migrated successfully |
+| Payment users served | **50,000+ users** via integrated payment gateway |
+| DAU improvement at GrowthDay | **+5%** daily active users via push notification optimization |
+| Dashboard performance | Load time reduced by optimizing image-resize Lambda |
+| AWS cost reduction | SQS events cut by grouping same-frequency scheduler events |
+| Microservices built | **6 microservices** at Dmoney digital payments platform |
+
+---
+
+## Technical Skills
+
+**Backend**
+Java 8–21 · Spring Boot 2.6+ / 3+ · Spring Data JPA · Spring Security · JWT · OAuth2 · GraphQL · REST
+
+**Cloud (AWS)**
+ECS · Lambda · SQS · S3 · EventBridge · CloudFront · API Gateway · ElastiCache · Systems Manager · Secrets Manager · AppConfig · IAM · EKS · EC2
+
+**Databases**
+PostgreSQL · Oracle · MySQL · MongoDB · Elasticsearch · Redis
+
+**DevOps & Tools**
+Docker · Terraform · Kubernetes · GitHub Actions · Maven · Gradle · Git
+
+**Observability**
+Datadog · ELK Stack · Mixpanel · Statsig · JMeter
+
+**Messaging**
+Apache Kafka · AWS EventBridge · SQS
+
+**Frontend**
+React · Next.js · TypeScript · Tailwind CSS · Shadcn
+
+**Integrations**
+Stripe · OneSignal · SendGrid · Keycloak · Strapi
+
+---
+
+## Career
+
+**Senior Software Engineer** · Propstream *(via Toptal)* · Oct 2025 – Present · Remote, USA
+> Integrated payment gateway serving 50,000+ users. Executed 1.5B-row data migration to optimize payment flow.
+
+**Senior Software Engineer** · GrowthDay *(via Toptal)* · May 2021 – Jun 2024 · Remote, USA
+> Personal development SaaS. Owned core service, notification service, and signup app. Increased DAU by 5% via targeted push notifications. Cut AWS costs via SQS event grouping. Upgraded Java 8→21, Spring Boot 2→3.
+
+**Frontend Developer** · PianoTrax · Nov 2024 – Sep 2025 · Remote, USA
+> Admin portal for music platform. Built features, resolved issues, improved performance. Stack: Next.js, Shadcn, React Query.
+
+**Senior Software Engineer** · TigerIT Bangladesh Ltd. · Feb 2020 – Aug 2021 · Hybrid
+> Designed backend architecture, managed team, led API development, conducted load testing. Built Action Tracker (project mgmt tool) and HRMS from scratch.
+
+**Software Engineer** · Dmoney Bangladesh Ltd. · May 2017 – Jan 2020 · On-site, Startup
+> Built and maintained 6 microservices for digital payments. REST APIs integrated with banks and third-party services for cash-in/out, bill payments, ticket purchases. Regular load testing, production monitoring.
+
+**Software Engineer** · BJIT Ltd. · Jun 2016 – Apr 2017 · On-site
+
+---
+
+## Education & Research
+
+**MSc in Computer Science & Engineering**
+Jahangirnagar University · 2015–2016 · CGPA **3.95** · **1st Position**
+
+**BSc in Computer Science & Engineering**
+Jahangirnagar University · 2010–2014 · CGPA **3.79** · **1st Position**
+
+**Publications**
+- [Reform Based Version Management System for XML Data](https://www.ijcit.com/archives/volume3/issue6/Paper030618.pdf), *IJCIT, Nov 2014*
+- [Cloud-Based Solution for Improvement of Response Time of MySQL RDBMS](http://ieeexplore.ieee.org/document/7860329/), *IEEE IWCI, Dec 2016*
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fahimfahad92&show_icons=true&count_private=true" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimfahad92&layout=compact&count_private=true" alt="Top Languages" height="170" />
+
+</div>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fahimfahad92&theme=github-compact&hide_border=true)
+
+---
+
+## Recent Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Statsig integration with Spring Boot](https://medium.com/spring-boot/statsig-integration-with-spring-boot-75cc91a68952?source=rss-fd28ce5a235e------2)
 - [How to Integrate Spring Boot 3 with Aws Secret Manager and Parameter Store Using AWS SDK v2](https://awstip.com/how-to-integrate-spring-boot-3-with-aws-secret-manager-and-parameter-store-using-aws-sdk-v2-390a59cfdbae?source=rss-fd28ce5a235e------2)
 - [How to Integrate Spring Boot 3 with Amazon SQS Using AWS SDK v2](https://awstip.com/how-to-integrate-spring-boot-3-with-amazon-sqs-using-aws-sdk-v2-044e93e4fc11?source=rss-fd28ce5a235e------2)
 - [Access static content from S3 using CloudFront](https://awstip.com/access-static-content-from-s3-using-cloudfront-458d323041a1?source=rss-fd28ce5a235e------2)
 - [How to Integrate Spring Boot 3 with Amazon S3 Using AWS SDK v2](https://awstip.com/how-to-integrate-spring-boot-3-with-amazon-s3-using-aws-sdk-v2-c5500f01df31?source=rss-fd28ce5a235e------2)
-<!-- BLOG-POST-LIST:END -->  
+<!-- BLOG-POST-LIST:END -->
 
-## 🤝 Connect with Me
+<div align="center">
+
+<a href="https://www.toptal.com/resume/fahim-fahad#XM92Wo" target="_blank">
+  <img src="/assets/toptal-badge.png" alt="Toptal Top 3% Talent Badge" width="180" height="180" style="border-radius: 12px; object-fit: contain;" />
+</a>
+
+</div>
+
+---
+
+## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fahimfahad92/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://medium.com/@fahimfahad92" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&style=for-the-badge" /></a>
-  <a href="mailto:fahimfahad92@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/fahimfahadcseju/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@fahimfahad92" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
+  <a href="https://www.toptal.com/resume/fahim-fahad" target="_blank"><img src="https://img.shields.io/badge/Toptal-3863A0?style=flat-square&logo=toptal&logoColor=white" /></a>
+  <a href="mailto:fahimfahad92@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=fahimfahad92&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=fahimfahad92&label=Profile%20views&color=555555&style=flat-square)
 
-</div>  
+</div>
