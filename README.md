@@ -1,6 +1,6 @@
 # Sayed MD. Fahim Fahad
 
-**Senior Java Engineer · AWS Architect · Toptal Top 3% Freelancer**
+**Senior Backend Engineer · Java, Spring Boot & AWS · Payments and high-volume data systems**
 
 <div align="center">
 
@@ -9,8 +9,9 @@
 <br/><br/>
 
 [![Toptal](https://img.shields.io/badge/Toptal-Top%203%25%20Talent-3863A0?style=flat-square&logo=toptal&logoColor=white)](https://www.toptal.com/resume/fahim-fahad)
-[![Java & Spring Boot](https://img.shields.io/badge/Java%20%26%20Spring%20Boot-9%2B%20Years-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](#)
+[![Java & Spring Boot](https://img.shields.io/badge/Java%20%26%20Spring%20Boot-10%2B%20Years-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/AWS-5%2B%20Years-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-three-snowy-36.vercel.app)
 
 </div>
 
@@ -18,74 +19,149 @@
 
 ## About Me
 
-- ☕ **Java & Spring Boot** specialist, 9+ years building scalable backend systems
-- ☁️ **AWS Architect**, ECS, Lambda, SQS, S3, EventBridge, ElastiCache and more
-- 🧩 Expert in **microservices, event-driven architecture**, and distributed systems
-- 🚀 **Startup veteran**, built two products from scratch, delivered under pressure
-- 🐞 Strong in **production debugging**, root cause analysis, and performance tuning
-- 🌍 Global **Toptal freelancer**, worked with US clients across multiple time zones
-- 🎓 **MSc & BSc 1st Position**, Jahangirnagar University
-- 📄 Published in **IEEE** and **IJCIT**
+- ☕ **Java & Spring Boot** engineer, 10+ years building backend systems, from first commit to production
+- 💳 **Payments**: built the core financial engine of a central-bank-licensed payments platform; certified card gateway integration (CIT/MIT, tokenisation)
+- ☁️ **AWS-focused**: ECS, Lambda, SQS, S3, EventBridge, ElastiCache and more, 5+ years in production
+- 🤖 **LLM features in production**: streaming tool-use agent on the Anthropic API, with cost tracked per conversation
+- 🚀 **Startup veteran**: founding engineer at a fintech, built several products from scratch
+- 🐞 Strong in **production debugging**, query tuning and load testing
+- 🌍 **Toptal** freelancer since 2021, working with US product teams
+- 🎓 **MSc & BSc, 1st Position**, Jahangirnagar University · published in **IEEE** and **IJCIT**
 
 ---
 
-## Impact
+## Selected Work
 
-| Metric | Result |
-|--------|--------|
-| Data migration at Propstream | **1.5 billion rows** migrated successfully |
-| Payment users served | **50,000+ users** via integrated payment gateway |
-| DAU improvement at GrowthDay | **+5%** daily active users via push notification optimization |
-| Dashboard performance | Load time reduced by optimizing image-resize Lambda |
-| AWS cost reduction | SQS events cut by grouping same-frequency scheduler events |
-| Microservices built | **6 microservices** at Dmoney digital payments platform |
+Production systems I designed or owned. Client code is private, so this is what was built and what it changed.
+
+| Project | What it was | Scale / outcome |
+|---|---|---|
+| **Core Financial Engine** | System of record for money at a licensed digital payments platform, built from scratch | Zero to central-bank licensing and commercial launch |
+| **AI Property Search Assistant** | Streaming LLM agent for natural-language property search | **60%** lower cost per conversation |
+| **Card Payment Gateway Integration** | CIT and MIT card processing with tokenisation, through vendor certification | **50,000+** paying users |
+| **Bulk Listing Search API** | Sync and async search with deduplication and atomic job claiming | **Billions** of property records |
+| **Notification Service** | Owned the service after extraction from the monolith; designed types and ran experiments | **+5%** DAU, **150k** peak daily |
+
+<details>
+<summary><b>Core Financial Engine</b> · digital payments platform licensed as a PSP by Bangladesh Bank</summary>
+<br/>
+
+- Joined before the first commit and built the system of record for every movement of money on the platform
+- Transaction processing, balance management, end-of-day merchant reconciliation and financial reporting
+- Ran regular load tests and migrated the database to optimise the payment flow
+- Platform reached 50k registered users and commercial launch during my time there
+
+`Java` `Spring Boot` `Oracle` `Microservices`
+</details>
+
+<details>
+<summary><b>AI Property Search Assistant</b> · natural-language property search for a US real-estate data platform</summary>
+<br/>
+
+- Designed and built the server side: a streaming tool-use agent on the Anthropic API
+- Filter taxonomy sourced from S3, so search categories change without a redeploy
+- Prompt caching cut cost per conversation by 60%
+- Per-conversation logging of tokens, cache hits and cost, so spend is tracked rather than estimated
+
+`Java` `Spring Boot` `Anthropic API` `AWS S3` `PostgreSQL`
+</details>
+
+<details>
+<summary><b>Card Payment Gateway Integration</b> · subscription billing for 50,000+ paying users</summary>
+<br/>
+
+- Integrated a card gateway across two services, covering CIT and MIT with card tokenisation
+- Took the integration through the vendor's certification process before production
+- Request-trace IDs on every gateway payment log, so any charge can be followed by one identifier
+- Alerting on recurring-billing job failures, so a failed nightly run surfaces immediately
+
+`Java` `Spring Boot` `PostgreSQL` `Hibernate`
+</details>
+
+<details>
+<summary><b>Bulk Listing Search API</b> · search over billions of property records for a sister company's platform</summary>
+<br/>
+
+- Two modes: small queries return inline, large ones become background jobs
+- SHA-256 request hashing, so identical queries are recognised instead of re-run
+- Atomic job claiming, so two workers can never pick up the same job
+- Reads routed to a replica, keeping heavy search traffic off the primary
+
+`Java` `Spring Boot` `PostgreSQL` `AWS`
+</details>
+
+<details>
+<summary><b>Notification Service</b> · consumer platform with ~150k monthly active users</summary>
+<br/>
+
+- Became the owning engineer after the service was extracted from the core monolith
+- Designed new notification types and ran Statsig experiments to measure whether they changed behaviour
+- Targeted push drove a 5% increase in daily active users
+- 20–30k notifications a day in steady state, peaking near 150k on event days
+
+`Java` `Spring Boot` `MongoDB` `AWS` `OneSignal` `Statsig`
+</details>
+
+---
+
+## Featured Repositories
+
+| Repository | What it shows |
+|---|---|
+| [**secure-shop-platform**](https://github.com/fahimfahad92/secure-shop-platform) | OAuth2 / OIDC end to end: four Spring Boot services behind a gateway, Keycloak login, tokens never reach the browser |
+| [**java-21-spring-boot-3-devops**](https://github.com/fahimfahad92/java-21-spring-boot-3-devops) | Container optimisation for Spring Boot: image cut from 739 MB to 220 MB (70%), plus CRaC, CDS and GitHub Actions CI |
+| [**design-pattern**](https://github.com/fahimfahad92/design-pattern) | Classic design patterns implemented in a Spring Boot codebase, with class diagrams |
+| [**portfolio**](https://github.com/fahimfahad92/portfolio) | Personal site on Next.js 16, React 19 and Tailwind · [live](https://portfolio-three-snowy-36.vercel.app) |
 
 ---
 
 ## Technical Skills
 
 **Backend**
-Java 8–21 · Spring Boot 2.6+ / 3+ · Spring Data JPA · Spring Security · JWT · OAuth2 · GraphQL · REST
+Java 8–21 · Spring Boot 2.6+ / 3.x · Spring Data JPA · Spring Security · JEE · Hibernate · GraphQL · REST
 
 **Cloud (AWS)**
-ECS · Lambda · SQS · S3 · EventBridge · CloudFront · API Gateway · ElastiCache · Systems Manager · Secrets Manager · AppConfig · IAM · EKS · EC2
+ECS · ECR · Lambda · SQS · S3 · EventBridge · CloudFront · API Gateway · ElastiCache · CloudWatch · Secrets Manager · Parameter Store · AppConfig · IAM · EKS · EC2
 
 **Databases**
 PostgreSQL · Oracle · MySQL · MongoDB · Elasticsearch · Redis
 
+**Payments & Identity**
+Card gateway integration · Tokenisation · CIT/MIT · Stripe · Third-party bank APIs · OAuth2 · OIDC · JWT · Keycloak
+
+**AI / LLM**
+Anthropic API · Tool use · Streaming · Prompt caching
+
 **DevOps & Tools**
 Docker · Terraform · Kubernetes · GitHub Actions · Maven · Gradle · Git
 
-**Observability**
-Datadog · ELK Stack · Mixpanel · Statsig · JMeter
+**Observability & Testing**
+Datadog · New Relic · CloudWatch · ELK · JUnit · RestAssured · JMeter
 
-**Messaging**
-Apache Kafka · AWS EventBridge · SQS
+**Messaging & Analytics**
+Apache Kafka · SQS · EventBridge · Mixpanel · Statsig · OneSignal · SendGrid
 
 **Frontend**
-React · Next.js · TypeScript · Tailwind CSS · Shadcn
-
-**Integrations**
-Stripe · OneSignal · SendGrid · Keycloak · Strapi
+React · Next.js · TypeScript · Tailwind CSS · shadcn/ui · React Query
 
 ---
 
 ## Career
 
-**Senior Software Engineer** · Propstream *(via Toptal)* · Oct 2025 – Present · Remote, USA
-> Integrated payment gateway serving 50,000+ users. Executed 1.5B-row data migration to optimize payment flow.
+**Senior Software Engineer** · PropStream *(via Toptal)* · Oct 2025 – Present · Remote, USA
+> US real-estate data platform. Lead feature delivery across teams of three to four engineers. Built the AI property-search assistant, bulk listing-search API and certified card gateway integration; delivered the direct-mail rebuild end to end; migrated 1.5 billion Do-Not-Call records onto a new data model.
 
-**Senior Software Engineer** · GrowthDay *(via Toptal)* · May 2021 – Jun 2024 · Remote, USA
-> Personal development SaaS. Owned core service, notification service, and signup app. Increased DAU by 5% via targeted push notifications. Cut AWS costs via SQS event grouping. Upgraded Java 8→21, Spring Boot 2→3.
+**Frontend Developer** · PianoTrax *(via Toptal, part-time)* · Nov 2024 – Sep 2025 · Remote, USA
+> Admin portal for an online sheet-music retailer. Rebuilt catalogue navigation on dynamic routing, merged blog editing into one form, built coupon management. Stack: Next.js, shadcn/ui, React Query.
 
-**Frontend Developer** · PianoTrax · Nov 2024 – Sep 2025 · Remote, USA
-> Admin portal for music platform. Built features, resolved issues, improved performance. Stack: Next.js, Shadcn, React Query.
+**Backend Engineer** · GrowthDay *(via Toptal, then hired full-time)* · May 2021 – Jun 2024 · Remote, USA
+> Personal-development platform, ~150k MAU. Owned the notification service (+5% DAU), goals and reminders; built the signup service from scratch. Upgraded Java 8→21 and Spring Boot 2→3. Cut dashboard load from 10s+ to 3–4s and support tickets by ~20%.
 
 **Senior Software Engineer** · TigerIT Bangladesh Ltd. · Feb 2020 – Aug 2021 · Hybrid
-> Designed backend architecture, managed team, led API development, conducted load testing. Built Action Tracker (project mgmt tool) and HRMS from scratch.
+> Designed the backend and led API development for Action Tracker, with an Elasticsearch search layer and newly introduced load testing. Built API and reporting for TigerHRMS (200+ employees).
 
 **Software Engineer** · Dmoney Bangladesh Ltd. · May 2017 – Jan 2020 · On-site, Startup
-> Built and maintained 6 microservices for digital payments. REST APIs integrated with banks and third-party services for cash-in/out, bill payments, ticket purchases. Regular load testing, production monitoring.
+> Founding engineer at a digital payments startup, from first commit through Bangladesh Bank PSP licensing and launch (50k users). Built the core financial engine, the bank and biller payment gateway, and the user management service.
 
 **Software Engineer** · BJIT Ltd. · Jun 2016 – Apr 2017 · On-site
 
@@ -102,19 +178,6 @@ Jahangirnagar University · 2010–2014 · CGPA **3.79** · **1st Position**
 **Publications**
 - [Reform Based Version Management System for XML Data](https://www.ijcit.com/archives/volume3/issue6/Paper030618.pdf), *IJCIT, Nov 2014*
 - [Cloud-Based Solution for Improvement of Response Time of MySQL RDBMS](http://ieeexplore.ieee.org/document/7860329/), *IEEE IWCI, Dec 2016*
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fahimfahad92&show_icons=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimfahad92&layout=compact&count_private=true" alt="Top Languages" height="170" />
-
-</div>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fahimfahad92&theme=github-compact&hide_border=true)
 
 ---
 
@@ -141,14 +204,9 @@ Jahangirnagar University · 2010–2014 · CGPA **3.79** · **1st Position**
 ## Connect
 
 <p align="center">
+  <a href="https://portfolio-three-snowy-36.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/fahimfahadcseju/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@fahimfahad92" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
   <a href="https://www.toptal.com/resume/fahim-fahad" target="_blank"><img src="https://img.shields.io/badge/Toptal-3863A0?style=flat-square&logo=toptal&logoColor=white" /></a>
   <a href="mailto:fahimfahad92@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=fahimfahad92&label=Profile%20views&color=555555&style=flat-square)
-
-</div>
